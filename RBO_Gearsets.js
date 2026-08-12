@@ -16,8 +16,8 @@ Robro.GS = Robro.GS || {};
  * 
  * Each actor is provided three loadout slots specific to them that may be 
  * freely used. In the event the actor is unable to equip a piece of equipment
- * due to allowed equip types or equipment posession changing, the color of
- * the text of the gear will change to indicate unavailibility. The equipment 
+ * due to allowed equip types or equipment possession changing, the color of
+ * the text of the gear will change to indicate unavailability. The equipment 
  * will remain as a part of the gearset until a replacement is found
  * or the set is overwritten.
  * 
