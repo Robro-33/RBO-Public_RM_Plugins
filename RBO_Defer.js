@@ -12,7 +12,7 @@ Robro.Def = Robro.Def || {};
  * ============================================================================
  * 
  * This plugin allows for skills to be completely substituted with others
- * within the skill window, or before target selection based on ntoetags.
+ * within the skill window, or before target selection based on notetags.
  * 
  * Use the following as a guide to set up the conditions. It goes within the
  * skill's notebox.
