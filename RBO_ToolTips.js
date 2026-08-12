@@ -112,7 +112,8 @@ Robro.TT.setupDescriptions = function(group) {
   }
 };
 
-Input.gamepadMapper[9] = 'start'; // all of this works under the assumption that you have a "start" button mapped. this adds one to controller. youre on your own for KBM ;)
+Input.gamepadMapper[9] = 'start';
+Input.keyMapper[9] = 'start';
 //yell at me enough and i might make it a parameter or something
 
 //-----------------------------------------------------------------------------
