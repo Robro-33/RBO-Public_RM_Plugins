@@ -13,5 +13,4 @@ You may make edits freely for your own use, but do not redistribute these plugin
 Absolutely no selling any of my plugins.
 
 contact me:
-https://forums.rpgmakerweb.com/index.php?members/robro33.222859/
 https://rpg-refuge.com/members/robro.108/
