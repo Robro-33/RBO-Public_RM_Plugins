@@ -1,4 +1,4 @@
-This is a my collection of plugins I've made for RMMV for my own use and for others'.
+This is my collection of plugins I've made for RMMV for my own use and for others'.
 
 For the plugins I've made for my own personal use, they're made to work with my projects specifically.
 Because of this, most plugins published here are modified and simplified versions of my own rather than exactly what I use.
