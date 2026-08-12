@@ -76,9 +76,9 @@ Robro.Def = Robro.Def || {};
  * 
  * The plugin works in a clean project as well as in a project running the
  * "usual" plugins. I imagine its fine for most. Let me know if it causes any
- * compatability issues or oddities. 
+ * compatibility issues or oddities. 
  * 
- * Additionally, I use a modified version of this plugin for my presonal use
+ * Additionally, I use a modified version of this plugin for my personal use
  * (or rather, *this* is the modified version for more general use) and thus, 
  * mistakes may have slipped through the cracks in my testing. 
  * I'm sure someone else can set their game on fire with it.
